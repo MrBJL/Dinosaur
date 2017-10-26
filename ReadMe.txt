@@ -1,7 +1,7 @@
 i am mrl
 <<<<<<< HEAD
 you am good And
-12
+1222
 ouuo
 =======
 you am good and
